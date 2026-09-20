@@ -1,0 +1,15 @@
+# this repository requires following 
+# packages to be installed.
+
+ucimlrepo
+
+jupyter
+jupyterlab
+
+requests
+
+numpy
+pandas
+
+matplotlib
+
